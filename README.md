@@ -2,10 +2,9 @@
 Estimate the equivalent 2nd order characteristics using state data of an oscillatory system
 
 
-# Modified-Transient-Pole-Ratio-Method
-Transient Pole Ratio Method is a reduction method used to estimate equivalent 2nd order characteristics of a system whose damping ratio lies between -0.5 and 0.5
+Transient Peak Ratio Method is a reduction method used to estimate equivalent 2nd order characteristics of a system whose damping ratio lies between -0.5 and 0.5
 
-MODIFIED TRANSIENT POLE RATIO METHOD - A brief description : 
+MODIFIED TRANSIENT PEAK RATIO METHOD - A brief description : 
 It is a data reduction method that is used to find the 2nd order characteristics of a system whose damping ratio lies between -0.5 and 0.5. The data is in the form of an oscillatory wave, either with increasing or decreasing amplitude.
 
 The ratios of amplitudes of the different crests and troughs is found out for the supplied data, and the average of all such ratios is taken. This ratio is them matched with a chart* given in sources [1] and [2], and the damping ratio is found out. The damping ratio is then used to calculate the natural frequency.
