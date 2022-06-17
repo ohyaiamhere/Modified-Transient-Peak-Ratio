@@ -126,7 +126,7 @@ for ii = 3:(length(Data(:,1)))
 end
 
 TPRfinal = mean(abs(mTPR));
-T = 2*mean(HalfTimePeriods);
+T = 2*mean(HalfTimePeriods(3:end));
 
 Frequency = 1/T;
 DampingRatio = subs(fx,TPRfinal);
