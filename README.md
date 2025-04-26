@@ -26,8 +26,9 @@ IMPORTANT NOTE:
 
 ## How to use the script
 
-Once you run the script, enter the crest and trough amplitudes as 2nd row,time values as 1st row 
-Also, remember to add the [] brackets aroundthem when pasting 
+Once you run the script, enter the crest and trough amplitudes as 2nd row,time values as 1st row.
+Also, remember to add the [] brackets around them when pasting.
+
 For example :
 
 ```
