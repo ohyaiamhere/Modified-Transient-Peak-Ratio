@@ -41,4 +41,5 @@ For example :
 ## References
 
 [1] Appendix of the book Background Information and User Guide for MIL-F-8785B(ASG) "Military Specification-flying qualities of Piloted Airplanes" by C. R. Chalk
+
 [2] Introduction to Flight Test Engineering by Ward and Strganac
