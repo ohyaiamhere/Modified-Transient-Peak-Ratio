@@ -30,12 +30,12 @@ Once you run the script, enter the crest and trough amplitudes as 2nd row,time v
 Also, remember to add the [] brackets aroundthem when pasting 
 For example :
 
-'''
+```
 [0 150 
 1 130
  2 160 
 3 120] 
-'''
+```
 
 [1] Appendix of the book Background Information and User Guide for MIL-F-8785B(ASG) "Military Specification-flying qualities of Piloted Airplanes" by C. R. Chalk
 [2] Introduction to Flight Test Engineering by Ward and Strganac
