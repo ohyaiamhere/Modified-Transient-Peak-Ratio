@@ -24,7 +24,18 @@ Method Parameters (Image taken from reference [1])
 IMPORTANT NOTE:
 *The graph only explicitly shows positive values of the damping ratio. Hence, the negative valies are estimated by the code by extending the same exponential equation to the other side of the y axis. This must be considered when the input values for data reduction come from a dynamically unstable system.
 
+## How to use the script
 
+Once you run the script, enter the crest and trough amplitudes as 2nd row,time values as 1st row 
+Also, remember to add the [] brackets aroundthem when pasting 
+For example :
+
+'''
+[0 150 
+1 130
+ 2 160 
+3 120] 
+'''
 
 [1] Appendix of the book Background Information and User Guide for MIL-F-8785B(ASG) "Military Specification-flying qualities of Piloted Airplanes" by C. R. Chalk
 [2] Introduction to Flight Test Engineering by Ward and Strganac
